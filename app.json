@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sample",
-    "slug": "sample",
+    "name": "Albums",
+    "slug": "Albums",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": ["ios", "android"],
